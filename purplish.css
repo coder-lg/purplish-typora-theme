@@ -73,7 +73,7 @@ body {
 }
 
 a {
-    color: #4183C4;
+    color: #bbb2e9;
 }
 h1,
 h2,
@@ -178,7 +178,7 @@ hr {
     height: 2px;
     padding: 0;
     margin: 16px 0;
-    background-color: #e7e7e7;
+    background-color: #bbb2e9;
     border: 0 none;
     overflow: hidden;
     box-sizing: content-box;
@@ -200,7 +200,7 @@ ol:last-child {
     margin-bottom: 0;
 }
 blockquote {
-    border-left: 4px solid #dfe2e5;
+    border-left: 4px solid #bbb2e9;
     padding: 0 15px;
     color: #777777;
 }
@@ -212,7 +212,7 @@ table {
     word-break: initial;
 }
 table tr {
-    border: 1px solid #dfe2e5;
+    border: 1px solid #bbb2e9;
     margin: 0;
     padding: 0;
 }
@@ -222,13 +222,13 @@ thead {
 }
 table th {
     font-weight: bold;
-    border: 1px solid #dfe2e5;
+    border: 1px solid #bbb2e9;
     border-bottom: 0;
     margin: 0;
     padding: 6px 13px;
 }
 table td {
-    border: 1px solid #dfe2e5;
+    border: 1px solid #bbb2e9;
     margin: 0;
     padding: 6px 13px;
 }
@@ -254,7 +254,7 @@ table td:last-child {
 code,
 tt {
     border: 1px solid #e7eaed;
-    background-color: #f8f8f8;
+    background-color: #bbb2e9;
     border-radius: 3px;
     padding: 0;
     padding: 2px 4px 0px 4px;
@@ -262,7 +262,7 @@ tt {
 }
 
 code {
-    background-color: #f3f4f4;
+    background-color: #bbb2e9;
     padding: 0 2px 0 2px;
 }
 
@@ -292,13 +292,13 @@ code {
 }
 
 .md-fences {
-	background-color: #f8f8f8;
+	background-color: #bbb2e9;
 }
 #write pre.md-meta-block {
 	padding: 1rem;
     font-size: 85%;
     line-height: 1.45;
-    background-color: #f7f7f7;
+    background-color: #bbb2e9;
     border: 0;
     border-radius: 3px;
     color: #777777;
@@ -310,7 +310,7 @@ code {
 }
 
 .md-mathjax-midline {
-    background: #fafafa;
+    background: #bbb2e9;
 }
 
 #write>h3.md-focus:before{
@@ -353,7 +353,7 @@ code {
 
 #typora-quick-open {
     border: 1px solid #ddd;
-    background-color: #f8f8f8;
+    background-color: #bbb2e9;
 }
 
 #typora-quick-open-item {
@@ -378,7 +378,7 @@ header, .context-menu, .megamenu-content, footer{
 }
 
 .mac-seamless-mode #typora-sidebar {
-    background-color: #fafafa;
+    background-color: #bbb2e9;
     background-color: var(--side-bar-bg-color);
 }
 
