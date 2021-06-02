@@ -1,6 +1,6 @@
 :root {
     --bg-color: #bbb2e9;
-    --side-bar-bg-color: #ffffff;
+    --side-bar-bg-color: #bbb2e9;
     --control-text-color: #a9aaab;
     --primary-color: #efb752;
     --primary-btn-border-color: #f0b752;
@@ -63,7 +63,7 @@ html {
 }
 
 body {
-    background: #ffffff;
+    background: #bbb2e9;
     color: #a9aaab;
     font-family: "Montserrat", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1em;
@@ -550,13 +550,13 @@ code {
 
 #typora-sidebar .sidebar-tabs {
     border-bottom: 1px solid #090b11;
-    font-family: 'Montserrat' !important;
+    font-family: 'Nunito' !important;
     font-weight: bold;
 }
 
 #typora-sidebar .file-list-item-file-name {
     color: #71bfd9;
-    font-family: 'Montserrat';
+    font-family: 'Nunito';
     font-weight: bold;
 }
 
@@ -567,7 +567,7 @@ code {
 #typora-sidebar .file-list-item-summary,
 #typora-sidebar .ty-search-item-line {
     color: #c4d4ed;
-    font-family: 'Montserrat';
+    font-family: 'Nunito';
 }
 
 .file-list-item-file-ext-part {
@@ -592,7 +592,7 @@ code {
 }
 
 #typora-sidebar #outline-content .outline-h1>.outline-item {
-    font-family: 'Montserrat';
+    font-family: 'Nunito';
 }
 
 .info-panel-tab-wrapper {
@@ -801,7 +801,7 @@ header,
 .context-menu,
 .megamenu-content,
 footer {
-    font-family: "Montserrat", "Arial", sans-serif;
+    font-family: "Nunito", "Arial", sans-serif;
 }
 
 .megamenu-opened header {
@@ -809,7 +809,7 @@ footer {
 }
 
 #typora-sidebar #ty-sidebar-footer {
-    background-color: #ffffff !important;
+    background-color: #bbb2e9 !important;
     border-top: 1px solid #090b10;
 }
 
