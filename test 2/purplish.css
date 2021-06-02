@@ -63,7 +63,7 @@ html {
 }
 
 body {
-    background: #bbb2e9;
+    background: #ffffff;
     color: #a9aaab;
     font-family: "Montserrat", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1em;
@@ -550,13 +550,13 @@ code {
 
 #typora-sidebar .sidebar-tabs {
     border-bottom: 1px solid #090b11;
-    font-family: 'Nunito' !important;
+    font-family: 'Montserrat' !important;
     font-weight: bold;
 }
 
 #typora-sidebar .file-list-item-file-name {
     color: #71bfd9;
-    font-family: 'Nunito';
+    font-family: 'Montserrat';
     font-weight: bold;
 }
 
@@ -567,7 +567,7 @@ code {
 #typora-sidebar .file-list-item-summary,
 #typora-sidebar .ty-search-item-line {
     color: #c4d4ed;
-    font-family: 'Nunito';
+    font-family: 'Montserrat';
 }
 
 .file-list-item-file-ext-part {
@@ -592,7 +592,7 @@ code {
 }
 
 #typora-sidebar #outline-content .outline-h1>.outline-item {
-    font-family: 'Nunito';
+    font-family: 'Montserrat';
 }
 
 .info-panel-tab-wrapper {
@@ -801,7 +801,7 @@ header,
 .context-menu,
 .megamenu-content,
 footer {
-    font-family: "Nunito", "Arial", sans-serif;
+    font-family: "Montserrat", "Arial", sans-serif;
 }
 
 .megamenu-opened header {
