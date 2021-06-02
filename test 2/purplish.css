@@ -1,6 +1,6 @@
 :root {
     --bg-color: #bbb2e9;
-    --side-bar-bg-color: #bbb2e9;
+    --side-bar-bg-color: #ffffff;
     --control-text-color: #a9aaab;
     --primary-color: #efb752;
     --primary-btn-border-color: #f0b752;
@@ -809,7 +809,7 @@ footer {
 }
 
 #typora-sidebar #ty-sidebar-footer {
-    background-color: #bbb2e9 !important;
+    background-color: #ffffff !important;
     border-top: 1px solid #090b10;
 }
 
